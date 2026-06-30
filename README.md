@@ -1,2 +1,2 @@
-# Portfolio---Website---CodeAlpha
-A responsive personal portfolio website built for the CodeAlpha Frontend Development Internship.
+# My-Portfolio
+A responsive personal portfolio website built for the Frontend Development Internship.
